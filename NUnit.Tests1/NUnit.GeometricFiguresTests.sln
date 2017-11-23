@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit.SquareTesting", "NUnit.Tests1\NUnit.SquareTesting.csproj", "{8EDF4429-251A-416D-BB68-93F227191BCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit.CircleTesting", "NUnit.Tests2\NUnit.CircleTesting.csproj", "{7E30BA5A-37E2-4BEE-9B54-01EA25F08CC8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5160FB46-442B-40F4-8A44-A0E76A9C8149}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit.TriangleTesting", "NUnit.Tests4\NUnit.TriangleTesting.csproj", "{AD10E51A-1E07-4F44-911F-74453263D91E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E30BA5A-37E2-4BEE-9B54-01EA25F08CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E30BA5A-37E2-4BEE-9B54-01EA25F08CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E30BA5A-37E2-4BEE-9B54-01EA25F08CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E30BA5A-37E2-4BEE-9B54-01EA25F08CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD10E51A-1E07-4F44-911F-74453263D91E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD10E51A-1E07-4F44-911F-74453263D91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD10E51A-1E07-4F44-911F-74453263D91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD10E51A-1E07-4F44-911F-74453263D91E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71D8F190-8B22-45E1-A762-7FC2CFC054F1}
+	EndGlobalSection
+EndGlobal
